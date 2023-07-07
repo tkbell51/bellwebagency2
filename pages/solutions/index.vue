@@ -86,7 +86,7 @@ useHead({
 .solutions-page {
   .page-header {
     background: $hero-gradient,
-      center / cover no-repeat url("~/img/solutions-bg.jpg") !important;
+      center / cover no-repeat url("~//public/img/solutions-bg.jpg") !important;
   }
 }
 .service__text {

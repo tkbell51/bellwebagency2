@@ -121,7 +121,7 @@ export default {
 .gmb-page {
   .page-header {
     background: $hero-gradient,
-      top right/ cover no-repeat url("~/assets/img/gmb-header.jpg") !important;
+      top right/ cover no-repeat url("~/public/img/gmb-header.jpg") !important;
   }
   .checklist__list p {
     margin-bottom: 0;
